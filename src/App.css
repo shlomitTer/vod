@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.link:hover {
+  transform: scale(0.95,0.95);
+  transition: 1000ms;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+ 
+} 
+
+._shadow{
+  box-shadow: 5px 5px 15px 5px #000000;
+}
